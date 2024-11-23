@@ -1,0 +1,4 @@
+Solicita al usuario que ingrese dos palabras.
+Concatena las dos palabras y muestra el resultado en la consola.
+Además,calcula la longitud total de las dos palabras concatenadas y muestra el resultado en la consola.
+

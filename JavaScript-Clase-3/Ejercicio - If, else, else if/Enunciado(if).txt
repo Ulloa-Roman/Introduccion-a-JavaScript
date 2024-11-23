@@ -1,0 +1,12 @@
+Crea un programa que pida al usuario que ingrese su calificación (un número del 0 al 100).
+Luego, utiliza una estructura `if` e `if-else` para determinar la calificación correspondiente en base a los siguientes criterios:
+
+Si la calificación es mayor o igual a 90, debe imprimir "A".
+
+Si la calificación está entre 80 y 89, debe imprimir "B".
+
+Si la calificación está entre 70 y 79, debe imprimir "C".
+
+Si la calificación está entre 60 y 69, debe imprimir "D".
+
+Si la calificación es menor de 60, debe imprimir "F".

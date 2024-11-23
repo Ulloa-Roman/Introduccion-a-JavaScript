@@ -1,0 +1,2 @@
+Crea un programa que cuente hacia atrás desde un número que el usuario ingrese hasta llegar a 0. 
+El programa debe mostrar el número actual en cada iteración.

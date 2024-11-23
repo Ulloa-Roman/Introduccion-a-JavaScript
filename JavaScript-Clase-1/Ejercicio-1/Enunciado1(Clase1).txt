@@ -1,0 +1,2 @@
+Crea un programa que solicite al usuario su nombre y apellido.
+Luego, muestra una alerta con su nombre completo (nombre y apellido concatenados) utilizando template strings.

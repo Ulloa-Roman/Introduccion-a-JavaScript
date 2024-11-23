@@ -1,0 +1,5 @@
+Diseñar una función en JavaScript que reciba un array de números como parámetro y
+devuelva el promedio de esos números.
+
+La función debe calcular el promedio de todos los números en el array y devolverlo
+como resultado.

@@ -1,0 +1,4 @@
+Lista de frutas favoritas
+
+Pide al usuario que ingrese tres de sus frutas favoritas, una por una, y guárdalas en un array. 
+Luego, utiliza un método básico de arrays para mostrar las frutas separadas por comas en una alerta.

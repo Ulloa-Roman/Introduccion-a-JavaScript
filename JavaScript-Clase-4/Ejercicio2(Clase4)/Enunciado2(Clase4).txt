@@ -1,0 +1,4 @@
+Crear una función que reciba un array de strings y un número entero como parámetros.
+
+La función debe devolver un nuevo array que contenga solo aquellos strings del array original
+que tengan una longitud mayor al valor dado.

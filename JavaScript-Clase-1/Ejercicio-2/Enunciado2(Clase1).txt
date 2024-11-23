@@ -1,0 +1,2 @@
+Pide al usuario que ingrese una frase.
+Luego, muestra en la consola la longitud de la frase utilizando template strings.

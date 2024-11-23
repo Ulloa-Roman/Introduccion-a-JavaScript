@@ -1,0 +1,4 @@
+Información del usuario
+
+Pide al usuario que ingrese su nombre, edad y si es cliente (sí/no).
+Luego, muestra esta información en una estructura de objeto usando console.log.

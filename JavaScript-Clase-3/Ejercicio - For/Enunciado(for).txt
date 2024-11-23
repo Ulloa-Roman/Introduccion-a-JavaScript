@@ -1,0 +1,7 @@
+Tengo una lista de estudiantes y sus calificaciones. Realizar lo siguiente:
+
+1_ Imprimir el nombre de cada estudiante y su calificación.
+
+2_ Calcular la media de las calificaciones.
+
+3_ Imprimir los nombres, las calificación y la media de cada estudiante.
